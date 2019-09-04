@@ -1,0 +1,101 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/jumbo-api/lib/client/ish/ISHRequest.ts" timestamp="1502976445773">
+        <mark key="'" line="44" column="0" />
+        <mark key="i" line="17" column="38" />
+        <mark key="[" line="83" column="4" />
+        <mark key="]" line="26" column="30" />
+        <mark key="^" line="26" column="30" />
+        <mark key="." line="26" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/shipping-status/spec/components/simacan/SimacanEventProcessorSpec.ts" timestamp="1549893656124">
+        <mark key="^" line="22" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/jumbo-api/lib/client/ish/MinOrderValue.ts" timestamp="1502976802569">
+        <mark key="'" line="7" column="26" />
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="23" column="151" />
+        <mark key="^" line="23" column="151" />
+        <mark key="." line="23" column="151" />
+      </file>
+      <file name="$USER_HOME$/Projects/jumbo-api/lib/utilities/ConfigReloader.ts" timestamp="1502874144715">
+        <mark key="[" line="79" column="57" />
+        <mark key="]" line="79" column="9" />
+        <mark key="^" line="79" column="9" />
+        <mark key="." line="79" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/jumbo-api/lib/client/ish/factories/ISHRequestFactory.ts" timestamp="1502976507004">
+        <mark key="[" line="38" column="93" />
+        <mark key="]" line="38" column="94" />
+        <mark key="^" line="38" column="94" />
+        <mark key="." line="38" column="94" />
+      </file>
+      <file name="$USER_HOME$/Projects/shipping-status/spec/components/simacan/SimacanEventProcessorFactorySpec.ts" timestamp="1549893534784">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/jumbo-api/spec/unit/client/ish/ISHRequestSpec.ts" timestamp="1502976736882">
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="29" column="8" />
+        <mark key="^" line="29" column="8" />
+        <mark key="." line="29" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/shipping-status/spec/components/simacan/SimacanEntityParserSpec.ts" timestamp="1549893304474">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="2" />
+        <mark key="." line="22" column="2" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="70" column="3" filename="$USER_HOME$/Projects/jumbo-api/lib/client/ish/ISHRequest.ts" />
+      <jump line="93" column="2" filename="$USER_HOME$/Projects/jumbo-api/lib/client/ish/ISHRequest.ts" />
+      <jump line="41" column="0" filename="$USER_HOME$/Projects/jumbo-api/lib/client/ish/ISHRequest.ts" />
+      <jump line="7" column="26" filename="$USER_HOME$/Projects/jumbo-api/lib/client/ish/MinOrderValue.ts" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICBpdCgnUHJvY2Vzc2VzIGV2ZW50cycsIGFzeW5jICgpID0+IHsKICAgIHNweU9uKGxvYWRTaGlwbWVudEV2ZW50LCAncHJvY2VzcycpOwoKICAgIGF3YWl0IHNpbWFjYW5FdmVudFByb2Nlc3Nvci5wcm9jZXNzKHJhd0V2ZW50c01vY2spOwoKICAgIGV4cGVjdChsb2FkU2hpcG1lbnRFdmVudC5wcm9jZXNzKS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSk7CiAgfSk7</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICBpdCgnUHJvY2Vzc2VzIGV2ZW50cycsIGFzeW5jICgpID0+IHsKICAgIHNweU9uKGxvYWRTaGlwbWVudEV2ZW50LCAncHJvY2VzcycpOwoKICAgIGF3YWl0IHNpbWFjYW5FdmVudFByb2Nlc3Nvci5wcm9jZXNzKHJhd0V2ZW50c01vY2spOwoKICAgIGV4cGVjdChsb2FkU2hpcG1lbnRFdmVudC5wcm9jZXNzKS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSk7CiAgfSk7Cn0=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">J0NyZWF0ZXMgYSBTaW1hY2FuRXZlbnRQcm9jZXNzb3InLCAoKSA9PiB7CiAgICBleHBlY3Qoc2ltYWNhbkV2ZW50UHJvY2Vzc29yRmFjdG9yeS5jcmVhdGUoe30pIGluc3RhbmNlb2YgU2ltYWNhbkV2ZW50UHJvY2Vzc29yKS50b0VxdWFsKHRydWUpOwogIH0=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">J0NyZWF0ZXMgYSBTaW1hY2FuRXZlbnRQcm9jZXNzb3InLCAoKSA9PiB7CiAgICBleHBlY3Qoc2ltYWNhbkV2ZW50UHJvY2Vzc29yRmFjdG9yeS5jcmVhdGUoe30pIGluc3RhbmNlb2YgU2ltYWNhbkV2ZW50UHJvY2Vzc29yKS50b0VxdWFsKHRydWUpOwogIH0=</text>
+      </register>
+      <register name="-" type="4">
+        <text>n</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

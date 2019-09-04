@@ -1,0 +1,11 @@
+<templateSet group="JavaScript">
+  <template name="cl" value="console.log('Line $LINE$, $DESCRIBE$', $PARAM$);$END$" description="inserts console.log" toReformat="false" toShortenFQNames="true">
+    <variable name="LINE" expression="lineNumber()" defaultValue="" alwaysStopAt="false" />
+    <variable name="DESCRIBE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
