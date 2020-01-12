@@ -1,28 +1,26 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="php" type="PHP" />
-      <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
-      <mapping pattern="password" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern=".dotenv" type="PLAIN_TEXT" />
-      <mapping pattern="update-project" type="PLAIN_TEXT" />
-      <mapping pattern="start_rp_acc_upgr" type="PLAIN_TEXT" />
-      <mapping pattern=".node-xmlhttprequest-sync-87398" type="PLAIN_TEXT" />
-      <mapping pattern="vagrant_inventory" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
-      <mapping pattern=".nycrc" type="PLAIN_TEXT" />
-      <mapping pattern="metrics_2017-02-01T120439_13871" type="PLAIN_TEXT" />
-      <mapping pattern="JumboToken.ts" type="PLAIN_TEXT" />
-      <mapping pattern="start_rp_test_upgr" type="PLAIN_TEXT" />
-      <mapping pattern="sureroute" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="endpoints" type="PLAIN_TEXT" />
-      <mapping pattern=".node-xmlhttprequest-sync-88507" type="PLAIN_TEXT" />
       <mapping pattern="run_node" type="PLAIN_TEXT" />
+      <mapping pattern="endpoints" type="PLAIN_TEXT" />
+      <mapping pattern="password" type="PLAIN_TEXT" />
+      <mapping pattern=".nycrc" type="PLAIN_TEXT" />
+      <mapping pattern="sureroute" type="PLAIN_TEXT" />
+      <mapping pattern="start_rp_test_upgr" type="PLAIN_TEXT" />
+      <mapping pattern=".gitlab-ci" type="PLAIN_TEXT" />
+      <mapping pattern="vagrant_inventory" type="PLAIN_TEXT" />
+      <mapping pattern=".node-xmlhttprequest-sync-88507" type="PLAIN_TEXT" />
+      <mapping pattern=".node-xmlhttprequest-sync-87398" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="metrics_2017-02-01T120439_13871" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="JumboToken.ts" type="PLAIN_TEXT" />
+      <mapping pattern=".dotenv" type="PLAIN_TEXT" />
+      <mapping pattern="start_rp_acc_upgr" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="update-project" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
